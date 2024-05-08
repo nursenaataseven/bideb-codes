@@ -1,2 +1,2 @@
 # bideb-codes
-includesbideb experiment and analysis codes
+includes bideb experiment and analysis codes
